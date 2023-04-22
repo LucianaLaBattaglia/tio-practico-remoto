@@ -1,2 +1,5 @@
 autor: Luciana La Battaglia
 mail: lucianalabattaglia@gmail.com
+direccion
+telefono
+edad
